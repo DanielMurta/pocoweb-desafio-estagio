@@ -1,1 +1,115 @@
 /* TODO: Escreva seu css aqui */
+body {
+    background-color: rgb(235, 235, 235);
+    margin: 0px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+header {
+    background-color: white;
+    border: 1px solid rgb(173, 173, 173);
+    padding: 18px;
+    font-size: 26px;
+    font-weight: bold;
+    padding-left: 400px;
+    align-items: center;
+}
+
+.img1 {
+    width: 25px;
+    margin-right: 10px;
+}
+
+nav {
+    background-color: rgb(54, 1, 141);
+    height: 931px;
+    width: 300px;
+    float: left;
+    z-index: 1;
+    align-items: center;
+}
+
+.img2 {
+    width: 15px;
+    margin-right: 10px;
+}
+
+.img3 {
+    width: 15px;
+    margin-right: 10px;
+}
+
+.img4 {
+    width: 15px;
+    margin-right: 10px;
+}
+
+.img5 {
+    width: 15px;
+    margin-right: 10px;
+}
+
+.sidebar-item_atual {
+    background-color: rgb(80, 130, 238);
+    color: white;
+    font-size: 16px;
+    display: block;
+    padding: 10px 12px 12px 32px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 15px;
+}
+
+.sidebar-item {
+    color: white;
+    font-size: 16px;
+    display: block;
+    padding: 10px 12px 12px 32px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.sidebar-item:hover {
+    background-color: rgb(80, 130, 238);
+    transition: background-color 0.3s;
+    border-radius: 15px;
+}
+
+main {
+    background-color: white;
+    border: 1px solid rgb(173, 173, 173);
+    border-radius: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 20px;
+    margin-left: 20%;
+    margin-right: 5%;
+    padding-bottom: 5px;
+}
+
+.Conteúdo1 h1 {
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.Conteúdo2 h1 {
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.Conteúdo1 h2 {
+    color: rgb(146, 146, 146);
+    font-size: 18px;
+}
+
+.Conteúdo2 h2 {
+    color: rgb(146, 146, 146);
+    font-size: 18px;
+    padding-top: 2px;
+}
+
+
+
+
